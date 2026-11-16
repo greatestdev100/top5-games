@@ -6,4 +6,4 @@ What needs to get done:
 3. Put the games in the list
 4. Make individual pages for each game (Why the game is where it is, basic summary of the story, etc.)
 5. Turn the game names into links that go to their corresponding summary page
-more TBA
+6. more TBA
